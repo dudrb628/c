@@ -1,0 +1,54 @@
+# 1. Visual Studio IDE/솔루션 관련 파일
+# =====================================
+# 사용자 개인 설정 (매우 중요!)
+.vs/
+*.suo
+*.user
+
+# 솔루션/프로젝트 임시 파일
+*.sln.docstates
+*.sln.lnk
+*.vcxproj.filters
+*.vcxproj.user
+
+# 2. 빌드 결과물 (컴파일된 파일들)
+# =====================================
+# 빌드 설정 폴더 (Debug, Release 등)
+[Dd]ebug/
+*/*/*/Debug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+x64/
+Win32/
+
+# 빌드 로그 및 임시 파일
+*.log
+*.ilk
+*.tlog
+*.idb
+*.pdb
+*.obj
+*.pch
+
+# 실행 파일 및 라이브러리
+*.exe
+*.dll
+*.lib
+*.so
+
+# 3. 기타 시스템 파일
+# =====================================
+# Windows 썸네일 캐시
+Thumbs.db
+ehthumbs.db
+
+# macOS 시스템 파일
+.DS_Store
+
+# 4. 패키지 관리자 (vcpkg, NuGet 등)
+# =====================================
+packages/
+build/
+build-vcpkg/
+vcpkg_installed/

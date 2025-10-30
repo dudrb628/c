@@ -3,6 +3,6 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="RandNum/RandNum.vcxproj" />
-  <Project Path="Triangle/Triangle.vcxproj" />
+  <Project Path="RandNum/RandNum.vcxproj" Id="9de34ac4-3a9a-4386-881b-97e1320d9591" />
+  <Project Path="Triangle/Triangle.vcxproj" Id="9198f613-897e-40c0-8eb8-03237a194cbe" />
 </Solution>

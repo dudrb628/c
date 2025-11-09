@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "printf3", "printf3\printf3.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "scanf", "scanf\scanf.vcxproj", "{7FFF1D2B-DDD7-4869-822E-DF74402695EF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "그 외의 입출력 함수들", "그 외의 입출력 함수들\그 외의 입출력 함수들.vcxproj", "{97EEF71C-71DB-4397-AD10-F4C07CC8C70F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{7FFF1D2B-DDD7-4869-822E-DF74402695EF}.Release|x64.Build.0 = Release|x64
 		{7FFF1D2B-DDD7-4869-822E-DF74402695EF}.Release|x86.ActiveCfg = Release|Win32
 		{7FFF1D2B-DDD7-4869-822E-DF74402695EF}.Release|x86.Build.0 = Release|Win32
+		{97EEF71C-71DB-4397-AD10-F4C07CC8C70F}.Debug|x64.ActiveCfg = Debug|x64
+		{97EEF71C-71DB-4397-AD10-F4C07CC8C70F}.Debug|x64.Build.0 = Debug|x64
+		{97EEF71C-71DB-4397-AD10-F4C07CC8C70F}.Debug|x86.ActiveCfg = Debug|Win32
+		{97EEF71C-71DB-4397-AD10-F4C07CC8C70F}.Debug|x86.Build.0 = Debug|Win32
+		{97EEF71C-71DB-4397-AD10-F4C07CC8C70F}.Release|x64.ActiveCfg = Release|x64
+		{97EEF71C-71DB-4397-AD10-F4C07CC8C70F}.Release|x64.Build.0 = Release|x64
+		{97EEF71C-71DB-4397-AD10-F4C07CC8C70F}.Release|x86.ActiveCfg = Release|Win32
+		{97EEF71C-71DB-4397-AD10-F4C07CC8C70F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

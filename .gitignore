@@ -33,6 +33,7 @@ Win32/
 
 # 실행 파일 및 라이브러리
 *.exe
+!vs_Community.exe
 *.dll
 *.lib
 *.so

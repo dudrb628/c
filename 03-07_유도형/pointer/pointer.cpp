@@ -13,13 +13,19 @@ void main() {
 
 	pi = &Num;
 	printf("Num의 값은 %d입니다.\n", *pi);
-	printf("Num의 번지수는 %d입니다.\n", &Num);
-	printf("Num의 번지수는 %d입니다.\n", &pi);
 
+	/*
+	printf("Num의 번지수는 %d입니다.\n", &Num);
+	printf("pi의 값은 %d입니다.\n", pi);
+	printf("pi의 번지수는 %d입니다.\n", &pi);
 	printf("Num은 %d입니다.\n", Num);
 	*pi = 628;
 	printf("*pi 값에 628 할당 후 Num은 %d입니다.\n", Num);
+	*/
 
 
-	//pi = 60; 포인터는 할당안되네. *붙여야되네
+	/*
+		pi = 60; 포인터는 할당안되네. *붙여야되네
+		pi에는 *를 붙이고 Num에는 &를 붙이네
+	*/
 }
